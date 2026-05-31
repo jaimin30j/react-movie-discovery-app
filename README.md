@@ -148,7 +148,7 @@ git clone https://github.com/jaimin30j/react-movie-discovery-app.git
 Navigate to the project:
 
 ```bash
-cd project path
+cd react-movie-discovery-app
 ```
 
 Install dependencies:
@@ -199,11 +199,7 @@ VITE_APPWRITE_TABLE_NAME=YOUR_APPWRITE_TABLE_NAME
 
 # 🎥 Demo
 
-Add Demo GIF or Video
-
-```text
-assets/demo.gif
-```
+![Demo](src/assets/demo.gif)
 ---
 
 # 🌟 Future Improvements
