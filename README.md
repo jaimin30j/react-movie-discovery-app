@@ -185,27 +185,15 @@ VITE_APPWRITE_TABLE_NAME=YOUR_APPWRITE_TABLE_NAME
 
 ## Home Page
 
-Add screenshot here
-
-```text
-assets/home-page.png
-```
+![Home Page](src/assets/home-page.png)
 
 ## Search Results
 
-Add screenshot here
-
-```text
-assets/search-results.png
-```
+![Search Results](src/assets/search-results.png)
 
 ## Trending Movies
 
-Add screenshot here
-
-```text
-assets/trending-movies.png
-```
+![Trending Movies](src/assets/trending-movies.png)
 
 ---
 
