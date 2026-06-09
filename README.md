@@ -198,8 +198,10 @@ VITE_APPWRITE_TABLE_NAME=YOUR_APPWRITE_TABLE_NAME
 ---
 
 # 🎥 Demo
+Live Demo: https://react-movie-discovery-app.vercel.app/
 
 ![Demo](src/assets/demo.gif)
+
 ---
 
 # 🌟 Future Improvements
